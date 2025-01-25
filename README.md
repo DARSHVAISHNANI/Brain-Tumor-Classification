@@ -56,11 +56,6 @@ The complete set of files is publicly available and can be downloaded from [Kagg
 ##### 6. YOLOv8m-cls: [YOLOv8m-cls.ipynb](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/master/YOLOv8m-cls.ipynb)
 
 
-## Project Motivation
-
-
-
-
 ## Results
 
 Sample classified MRI scans:
