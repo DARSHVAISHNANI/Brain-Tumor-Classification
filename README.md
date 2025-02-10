@@ -25,19 +25,19 @@ The dataset contain four different type of  Brain MRI Scans Images, which it the
 
 > *Gliomas:* These are the tumors that occur in the brain and/or spinal cord. Types of glioma include: Astrocytomas, Ependymomas, and Oligodendrogliomas. Gliomas are one of the most common types of primary brain tumors. 
 
-![Gliomas]([https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/dataset.png](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Te-gl_0068.jpg))
+![Gliomas](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Te-gl_0068.jpg)
 
 > *Meningiomas:* These are the tumors that arise from the Meninges — the membranes that surround the brain and spinal cord. Most meningiomas grow very slowly, often over many years without causing symptoms. 
 
-![Meningiomas]([https://github.com/nazianafis/Brain-Tumor-Classification/Images/](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Te-me_0044.jpg))
+![Meningiomas](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Te-me_0044.jpg)
 
 > *Pituitary tumors:* These are the tumors that form in the Pituitary — a small gland inside the skull. Most pituitary tumors are often pituitary adenomas, benign growths that do not spread beyond the skull.
 
-![Pituitary tumors]([https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/dataset.png](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Tr-pi_1418.jpg))
+![Pituitary tumors](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Tr-pi_1418.jpg)
 
 > *No-Tumor:* A normal brain images without any issue.
 
-![No-tumor]([https://github.com/nazianafis/Brain-Tumor-Classification/blob/main/screenshots/dataset.png](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Tr-no_0376.jpg))
+![No-tumor](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/blob/307cad4e5d263a552caf866456ff88561606b9d5/Images/Tr-no_0376.jpg)
 
 
 The complete set of files is publicly available and can be downloaded from [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset). Alternatively, you can find the folder (titled _Brain Tumor MRI_) in my Github repository [Brain Tumor MRI](https://github.com/DARSHVAISHNANI/Brain-Tumor-Classification/tree/master/Brain%20Tumor%20MRI).
